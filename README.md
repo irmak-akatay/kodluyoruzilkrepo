@@ -1,3 +1,3 @@
 # Kodluyoruz İlk Repo
-Front-End Eğitimi kapsamında  açtığım ilk repo
+Kodluyoruz Front-End Eğitimi kapsamında  açtığım ilk repo
  
